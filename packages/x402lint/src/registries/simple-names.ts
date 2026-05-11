@@ -15,8 +15,9 @@ export const SIMPLE_NAME_TO_CAIP2 = {
   // Radius networks
   radius: 'eip155:723487',
   'radius-network': 'eip155:723487',
-  radius_testnet: 'eip155:72344',
+  radius_network: 'eip155:723487',
   'radius-testnet': 'eip155:72344',
+  radius_testnet: 'eip155:72344',
 
   // Solana networks
   solana: 'solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp',
